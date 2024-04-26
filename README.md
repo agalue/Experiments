@@ -1,3 +1,3 @@
 # A repository for experimentation
 
-This has been created for tests and learning purposes.
+This repository has been created for tests and learning purposes.
